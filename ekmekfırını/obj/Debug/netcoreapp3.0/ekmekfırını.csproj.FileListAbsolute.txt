@@ -1,0 +1,11 @@
+C:\Users\terzi\source\repos\ekmekfırını\ekmekfırını\bin\Debug\netcoreapp3.0\ekmekfırını.exe
+C:\Users\terzi\source\repos\ekmekfırını\ekmekfırını\bin\Debug\netcoreapp3.0\ekmekfırını.deps.json
+C:\Users\terzi\source\repos\ekmekfırını\ekmekfırını\bin\Debug\netcoreapp3.0\ekmekfırını.runtimeconfig.json
+C:\Users\terzi\source\repos\ekmekfırını\ekmekfırını\bin\Debug\netcoreapp3.0\ekmekfırını.runtimeconfig.dev.json
+C:\Users\terzi\source\repos\ekmekfırını\ekmekfırını\bin\Debug\netcoreapp3.0\ekmekfırını.dll
+C:\Users\terzi\source\repos\ekmekfırını\ekmekfırını\bin\Debug\netcoreapp3.0\ekmekfırını.pdb
+C:\Users\terzi\source\repos\ekmekfırını\ekmekfırını\obj\Debug\netcoreapp3.0\ekmekfırını.csprojAssemblyReference.cache
+C:\Users\terzi\source\repos\ekmekfırını\ekmekfırını\obj\Debug\netcoreapp3.0\ekmekfırını.AssemblyInfoInputs.cache
+C:\Users\terzi\source\repos\ekmekfırını\ekmekfırını\obj\Debug\netcoreapp3.0\ekmekfırını.AssemblyInfo.cs
+C:\Users\terzi\source\repos\ekmekfırını\ekmekfırını\obj\Debug\netcoreapp3.0\ekmekfırını.dll
+C:\Users\terzi\source\repos\ekmekfırını\ekmekfırını\obj\Debug\netcoreapp3.0\ekmekfırını.pdb
